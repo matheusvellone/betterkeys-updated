@@ -17,10 +17,10 @@ Please refer to the original mod for more/ legacy descriptions: https://hub.sp-t
 
 ```JSON
 {
-  "enableAutoUpdate": true, // enable auto update from GitHub
+  "enableAutoUpdate": false, // enable auto update from GitHub (disabled by default)
   "backgroundColor": true, // toggle background colors
   "descriptionInfo": true, // toggle item descriptions
-  "yellowMarkedKeys": true, // when true, marked keys are always yellow (vanilla behavior)
+  "yellowMarkedKeys": false, // when true, marked keys are always yellow (vanilla behavior)
   "requiredInQuests": true, // Toggle Quests Info
   "requiredForExtracts": true, // toggle Extracts Info
   "behindTheLoock": true, // toggle Loot Info
