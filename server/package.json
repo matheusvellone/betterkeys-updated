@@ -4,7 +4,7 @@
   "main": "src/mod.js",
   "license": "MIT",
   "author": "maxloo2",
-  "sptVersion": "~3.9",
+  "sptVersion": "~3.10",
   "isBundleMod": false,
   "scripts": {
     "build": "node ./build.mjs",
